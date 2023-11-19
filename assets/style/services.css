@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #8c51a5;
+}
+
+.header_pic {
+  background-size: contain;
+  width: 100%;
+}
+
+.backto {
+  margin: 1rem;
+}
+
+.contenu {
+  display: flex;
+  flex-direction: column;
+
+  color: wheat;
+  text-align: center;
+}
+
+.footer_container {
+  margin-top: 3rem;
+}
+
+.footer_pic {
+  background-size: contain;
+  width: 100%;
+}
